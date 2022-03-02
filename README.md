@@ -1,5 +1,7 @@
 # upload-strict-demo
 
+以上传图片为例，通过文件头信息，严格判断文件上传类型
+
 掘金地址：https://juejin.cn/post/7046002905278578725
 
 ## Project setup
